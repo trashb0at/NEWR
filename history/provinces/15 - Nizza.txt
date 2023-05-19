@@ -1,0 +1,20 @@
+#15 - Nizza
+
+add_core = PIE
+owner = PIE
+controller = PIE
+
+culture = azzurano
+religion = catholic
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Nizza"
+
+is_city = yes

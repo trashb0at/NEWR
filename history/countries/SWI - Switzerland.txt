@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = feudalism_reform
+religion = calvinist
+primary_culture = swiss
+technology_group = western
+capital = 13 #temp

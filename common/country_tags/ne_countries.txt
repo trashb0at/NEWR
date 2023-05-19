@@ -1,0 +1,22 @@
+#Bhutans Special Category
+TDE = "countries/ThunderDragonEmpire.txt"
+
+#Iberia
+POR = "countries/Portugal.txt"
+CAT = "countries/Catalonia.txt"
+
+#France
+
+AQU = "countries/Aquitania.txt"
+LEN = "countries/Lengadoc.txt"
+TOL = "countries/Tolosa.txt"
+GON = "countries/Gondor.txt"
+AUV = "countries/Auvernia.txt"
+
+#Alps
+
+SWI = "countries/Switzerland.txt"
+
+#Italy
+
+PIE = "countries/Piedmont.txt"

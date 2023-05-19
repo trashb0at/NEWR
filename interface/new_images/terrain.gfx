@@ -1,0 +1,10 @@
+spriteTypes = {
+  spriteType = {
+    name = "GFX_combat_terrain_tells
+    texturefile = "colony_terrain_tells.dds"
+  }
+  spriteType = {
+    name = "GFX_colony_terrain_tells"
+    texturefile = "colony_terrain_tells.dds"
+  }
+}

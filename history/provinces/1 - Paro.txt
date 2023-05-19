@@ -1,0 +1,21 @@
+#1 - Paro
+
+add_core = TDE
+owner = TDE
+controller = TDE
+
+culture = drukpa
+religion = gelugpa
+
+hre = no
+
+base_tax = 10
+base_production = 10
+base_manpower = 6
+
+trade_goods = paper
+
+capital = "Zhemgang"
+is_city = yes
+
+center_of_trade = 2

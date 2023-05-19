@@ -1,0 +1,20 @@
+#5 - Algarve
+
+add_core = POR
+owner = POR
+controller = POR
+
+culture = portugese
+religion = catholic
+
+hre = no
+
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+trade_goods = salt
+
+capital = "Faro"
+
+is_city = yes

@@ -1,0 +1,20 @@
+#6 - Lanas
+
+add_core = AQU
+owner = AQU
+controller = AQU
+
+culture = aquitano
+religion = sevillian
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Dacs"
+
+is_city = yes

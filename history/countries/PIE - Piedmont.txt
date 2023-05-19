@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = portuguese_monarchy_reform
+primary_culture = piedmontese
+religion = catholic
+technology_group = western
+capital = 15 # temp

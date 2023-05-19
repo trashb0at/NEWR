@@ -1,0 +1,17 @@
+name="New Era: The World Reborn"
+tags={
+	"Alternative History"
+	"Total Conversion"
+}
+replace_path="common/countries"
+replace_path="common/cultures"
+replace_path="common/great_projects"
+replace_path="history/diplomacy"
+replace_path="history/countries"
+replace_path="history/wars"
+replace_path="history/provinces"
+replace_path="history/advisors"
+replace_path="history/countries"
+picture="temp.jpg"
+supported_version="1.35.*"
+path="mod/NEWB"

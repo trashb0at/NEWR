@@ -1,0 +1,20 @@
+#37 - Obersavoyen
+
+add_core = SWI
+owner = SWI
+controller = SWI
+
+culture = swiss
+religion = calvinist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Èneci"
+
+is_city = yes

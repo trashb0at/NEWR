@@ -1,0 +1,20 @@
+#24 - Vacluse
+
+add_core = SWI
+owner = SWI
+controller = SWI
+
+culture = arpitan
+religion = catholic
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Avignon"
+
+is_city = yes

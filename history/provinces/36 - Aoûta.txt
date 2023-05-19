@@ -1,0 +1,20 @@
+#36 - Aoûta
+
+add_core = PIE
+owner = PIE
+controller = PIE
+
+culture = provencal
+religion = catholic
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Aoûta"
+
+is_city = yes

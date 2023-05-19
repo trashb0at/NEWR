@@ -1,0 +1,10 @@
+
+color = { 181 72 106 } #artefact from vanilla values
+color = { 220 138 57 } #tibetic (placeholder name)
+color = { 0 102 0 } #lusophone
+color = { 250 228 26 } #hispanophone
+color = { 195 112 39 } #basque
+color = { 240 171 68 } #occitanophone
+color = { 38 183 52 } #italophone
+color = { 0 51 102 } #francophone
+color = { 255 153 153 } #miscellophone

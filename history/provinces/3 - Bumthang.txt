@@ -1,0 +1,21 @@
+#3 - Bumthang
+
+add_core = TDE
+owner = TDE
+controller = TDE
+
+culture = drukpa
+religion = gelugpa
+
+hre = no
+
+base_tax = 8
+base_production = 8
+base_manpower = 4
+
+trade_goods = iron
+
+capital = "Bumthang"
+is_city = yes
+
+center_of_trade = 2

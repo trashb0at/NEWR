@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+primary_culture = drukpa
+religion = gelugpa
+technology_group = bhutanese
+capital = 1 #Paro

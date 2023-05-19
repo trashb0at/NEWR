@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = portuguese_monarchy_reform
+primary_culture = aquitano
+religion = sevillian
+technology_group = western
+capital = 7 # Burdeos/Bordeaux
