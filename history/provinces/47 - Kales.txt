@@ -1,0 +1,20 @@
+#47 - Kales
+
+add_core = BRE
+owner = BRE
+controller = BRE
+
+culture = belgian
+religion = novelist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Duunkerke"
+
+is_city = yes

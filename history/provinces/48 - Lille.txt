@@ -1,0 +1,20 @@
+#48 - Lille
+
+add_core = BRE
+owner = BRE
+controller = BRE
+
+culture = picard
+religion = novelist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Lille"
+
+is_city = yes

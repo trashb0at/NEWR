@@ -1,0 +1,20 @@
+#57 - Bisanz
+
+add_core = SWI
+owner = SWI
+controller = SWI
+
+culture = patois
+religion = calvinist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Bisanz"
+
+is_city = yes

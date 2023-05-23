@@ -20,3 +20,12 @@ SWI = "countries/Switzerland.txt"
 #Italy
 
 PIE = "countries/Piedmont.txt"
+
+#British Isles
+
+GBR = "countries/Brhyttannya.txt"
+
+#Low Countries
+
+BRE = "countries/Breeland.txt"
+ESG = "countries/Esgaroth.txt"

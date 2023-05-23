@@ -1,0 +1,20 @@
+#43 - Manche
+
+add_core = GON
+owner = GON
+controller = GON
+
+culture = norman
+religion = novelist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Cherbourg"
+
+is_city = yes

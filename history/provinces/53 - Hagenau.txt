@@ -1,0 +1,20 @@
+#53 - Hagenau
+
+add_core = ESG
+owner = ESG
+controller = ESG
+
+culture = rhenish
+religion = catholic
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Hagenau"
+
+is_city = yes

@@ -1,0 +1,20 @@
+#40 - Wyannys
+
+add_core = GBR
+owner = GBR
+controller = GBR
+
+culture = ffrencyg
+religion = thelema
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Wyannys"
+
+is_city = yes

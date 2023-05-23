@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = feudal_france_reform
+primary_culture = belgian
+religion = novelist
+technology_group = western
+capital = 47 # temp

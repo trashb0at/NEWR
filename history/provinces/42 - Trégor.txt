@@ -1,0 +1,20 @@
+#42 - Trégor
+
+add_core = GBR
+owner = GBR
+controller = GBR
+
+culture = gallo
+religion = thelema
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Lannion"
+
+is_city = yes

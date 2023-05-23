@@ -529,6 +529,206 @@ francophone	= {
 			Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
 		}
 	}
+	gallo = {
+		country = { } 
+		primary = NEU
+		dynasty_names = {
+			"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+			"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+			"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+			"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+			"de Vaudemont" "de Nicolaÿ"
+		}
+		male_names = {
+			Édouard Érrard Étienne Adémar Adrien Aimery Alain 
+			Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
+			Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+			Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
+			Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
+			Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+			Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+			Thierry Thomas Valeran Yves
+		}
+		female_names = {
+			Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
+			Agnès Aléarde Alice Aliénor Agathe
+			Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
+			Béatrice Béatrix Belleassez Benoîte Bérengère
+			Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+			Charlotte Constance Denise Douce Echive Eglantine
+			Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
+			Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+			Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
+			Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
+			Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		}
+	}
+	picard = {
+		country = { } 
+		primary = PIC
+		dynasty_names = {
+			"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+			"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+			"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+			"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+			"de Vaudemont" "de Nicolaÿ"
+		}
+		male_names = {
+			Édouard Érrard Étienne Adémar Adrien Aimery Alain 
+			Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
+			Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+			Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
+			Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
+			Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+			Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+			Thierry Thomas Valeran Yves
+		}
+		female_names = {
+			Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
+			Agnès Aléarde Alice Aliénor Agathe
+			Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
+			Béatrice Béatrix Belleassez Benoîte Bérengère
+			Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+			Charlotte Constance Denise Douce Echive Eglantine
+			Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
+			Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+			Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
+			Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
+			Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		}
+	}
+	metropolitan = {
+		country = { } 
+		primary = PIC
+		dynasty_names = {
+			"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+			"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+			"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+			"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+			"de Vaudemont" "de Nicolaÿ"
+		}
+		male_names = {
+			Édouard Érrard Étienne Adémar Adrien Aimery Alain 
+			Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
+			Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+			Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
+			Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
+			Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+			Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+			Thierry Thomas Valeran Yves
+		}
+		female_names = {
+			Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
+			Agnès Aléarde Alice Aliénor Agathe
+			Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
+			Béatrice Béatrix Belleassez Benoîte Bérengère
+			Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+			Charlotte Constance Denise Douce Echive Eglantine
+			Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
+			Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+			Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
+			Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
+			Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		}
+	}
+	lorraine = {
+		country = { } 
+		primary = LOR
+		dynasty_names = {
+			"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+			"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+			"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+			"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+			"de Vaudemont" "de Nicolaÿ"
+		}
+		male_names = {
+			Édouard Érrard Étienne Adémar Adrien Aimery Alain 
+			Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
+			Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+			Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
+			Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
+			Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+			Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+			Thierry Thomas Valeran Yves
+		}
+		female_names = {
+			Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
+			Agnès Aléarde Alice Aliénor Agathe
+			Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
+			Béatrice Béatrix Belleassez Benoîte Bérengère
+			Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+			Charlotte Constance Denise Douce Echive Eglantine
+			Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
+			Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+			Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
+			Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
+			Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		}
+	}
+	norman = {
+		country = { } 
+		primary = LOR
+		dynasty_names = {
+			"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+			"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+			"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+			"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+			"de Vaudemont" "de Nicolaÿ"
+		}
+		male_names = {
+			Édouard Érrard Étienne Adémar Adrien Aimery Alain 
+			Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
+			Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+			Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
+			Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
+			Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+			Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+			Thierry Thomas Valeran Yves
+		}
+		female_names = {
+			Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
+			Agnès Aléarde Alice Aliénor Agathe
+			Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
+			Béatrice Béatrix Belleassez Benoîte Bérengère
+			Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+			Charlotte Constance Denise Douce Echive Eglantine
+			Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
+			Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+			Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
+			Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
+			Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		}
+	}
 }
 miscellophone = {
 	
@@ -584,6 +784,168 @@ miscellophone = {
 		}
 		female_names = {
 			Angela Marlene Hanna Anastasia Christina Adelina Adriana Afina Alexandra Alexia Ana Anna Arina 
+		}
+	}
+}
+brittannic = {
+	
+	graphical_culture = westerngfx
+
+	ffrencyg = {
+		country = { } 
+		primary = ROT
+		dynasty_names = {
+			"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+			"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+			"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+			"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+			"de Vaudemont" "de Nicolaÿ"
+		}
+		male_names = {
+			Aarwn_Aaron Abnyr_Abner Addam_Adam Alan_Alan Albyrt_Albert Aly_Ali Alyksandyr_Alexander Alyks_Alexander Alfryd_Alfred Algyrnwn_Algernon Ambrwsyus_Ambrose Anddryw_Andrew Anthwny_Anthony Arkyballdd_Archibald Arnwlldd_Arnold Arthur_Arthur Augustus_Augustus
+			Bahyr_Bahir Balddwyn_Baldwin Bykyt_Beckett Byddywyyry_Bedivere Bynjamyn_Benjamin Byntly_Bentley Brandwn_Brandon Bryan_Brian  
+			Ddanyl_Daniel Ddaryus_Darius Ddawyydd_David Ddwmynyk_Dominic
+			Eadrydd_Eadred Eaddwyg_Eadwig Eddgar_Edgar Eddmundd_Edmund Eddwardd_Edward Elyan_Elyan Elywt_Elijah Eryk_Erik Ethan_Ethan
+			Fadyl_Fadl Fynnlay_Finnlay Flambardd_Flambard Flytkyr_Fletcher Fransys_Francis Fulk_Folke Frydyryk_Fredderick
+			Garyth_Gareth Galahadd_Galahad Galyb_Ghalib Gawayn_Gavin Gywfry_Geoffrey Gywrgy_George Gyraynt_Gerontius Gyraldd_Gerald Gylbyrt_Gilbert Gylddas_Gildas Gwrddwn_Gordon Grygwry_Gregory Guy_Guy 
+			Harwldd_Harold Hasan_Hasan Hayddyn_Hayden Hyktwr_Hector Hynry_Henry Hyrbyrt_Herbert Hugh_Hugh Humfryy_Humphrey 
+			Ibrahym_Abraham Idrys_Idris Idwallwn_Idwallon Isaac_Isaac Ishmayl_Ishmael Isylmw_Isilmo
+			Jabyr_Jabir Jak_John Jalyl_Jalil Jamys_James Jamyy_James Jakwb_Jacob Jaky_Jacob Jwhn_John Jwhnathan_Jonathan Jwrdan_Jordan Jwshua_Joshua Jykyll_Jekyll Jwsh_Joshua Jwsyff_Joseph Jwy_Joseph Justyn_Justin
+			Kay_Gaius Kywyyn_Kevin Karlys_Charles Krystwfyr_Christopher Klymynt_Clement Kwnnwr_Connor Kwry_Corey Kallum_Columbus Kalwyyn_Calvin Kaska_Caska Kamyrwn_Cameron Kynfyn_Cynfyn 
+			Lansylwt_Lancelot Laurynsy_Lawrence Lyy_Lee Lylwuch_Lelouch Lywnyl_Lionel Lyam_William Llwyd_Lloyd Lywys_Louis Lwt_Lot Lusyus_Lucius Luky_Luke 
+			Malyk_Malik Mark_Mark Martyn_Martin Matthyw_Matthew Maurysy_Maurice Myrlyn_Merlin Mykayl_Michael Mwhamydd_Muhammad
+			Nasyr_Nasir Nathan_Nathan Nyddardd_Neddard Nathanayl_Nathan Nynnyus_Nennius Nyvyly_Neville Nykwlas_Nicholas Nyk_Nicholas Nwrmyn_Norman
+			Patryk_Patrick Paul_Paul Pyrsyval_Percival Pytyr_Peter Fylyp_Phillip Pyyrs_Peter
+			Ralff_Ralph Ramsay Rygynaldd_Reynold Rykardd_Richard Rywal_Riwal Rywthamus_Riothamus Rwbyrt_Robert Rwgyr_Roger Ryan_Ryan 
+			Sakary_Zachary Samyr_Samir Sayn_Zain Shyrlwk_Sherlock Symwn_Simon Spyncyr_Spencer Stanlyy_Stanley Styffyn_Stephen Stywyyn_Stephen Stuart_Stuart Samuyl_Samuel 
+			Talyb_Talib Talyysyn Thwmas_Thomas Twny_Anthony Tylyr_Tyler Trystan_Tristan
+			Umar_Umar Uryyn_Urbgenius Uthyr_Uther Uways_Uways
+			Waltyr_Walter Wayn_Eugene Wbyrwn_Oberon Wktawyyus_Octavius Wlywyyr_Oliver Wrlandw_Roland Wyllyam_William Wynstwn_Winston Wyalyryan_Valerian			
+		}
+		female_names = {
+			Abby_Abigail Abygayl_Abigail Abygayly_Abigail Adyla_Adela Addelaydy_Adelaide Alyksandra_Alexandra Alysy_Alice Ambyr Amysy Amy Anny_Anna Ashly Avylyny_Avelina 
+			Byatrysy_Beatrix Byathan Byathany_Bethany Blankhy_Blanche Bronwyn
+			Kaytlyn_Caitlin Kathyryny_Catherine Karlwtty_Charlotte Kylsya Kyryssy Kyryl Klwy_Chloe Kwnstanse_Constance Krystal 
+			Ddalya_Dahlia Ddanyylly_Daniela Ddanny_Daniela Ddwrwthy_Dorothy
+			Edyth_Edith Ela_Eleanor Elayny_Helen Elyanwr_Eleanor Elyzabyth_Elizabeth Enyd_Enid Emyly_Emily Emma_Emma Enya
+			Gymma Guynyvyry_Jennifer
+			Hannah_Hannah Hawysy_Hawise Haylyy_Haley Hazyl_Hazel Hyathyr_Heather Hwlly_Holly
+			Igrayny Isabyl_Elizabeth Isabylla_Elizabeth Isabylly_Elizabeth Iswldy 
+			Jady_Jade Jany_Jane Jasmyn_Jasmine Jasmyny_Jasmine Jyssyka_Jessica Jyssyy_Jessica Jwan_Jane Jwanna_Jane Jwdy Julyana_Juliana
+			Karyn_Catherine Kasyy Katy_Catherine Kathyryny_Catherine Kathryn_Catherine Kyanna Kylly Kylsyy Kyrys Kymbyrly_Kimberly Krystylyygh
+			Laura_Laura Lauryn_Laurentia Lyzzyy_Elizabeth Lwuysy_Louise Lusya_Lucia Lusy_Lucia Lunyty Lyddya_Lydia
+			Maddyy_Madeline Maddylyyny_Madeline Mahaut_Matilda Margaryt_Margaret Mary_Mary Matyldda_Matilda Maudd_Matilda Mygan_Margaret Mylyssa_Melissa Myllyy_Mildred Myrandda_Miranda Mwlly_Mary Mwrgyn
+			Nawmy Natasha_Natalie Nymuy
+			Pytra_Petra Fylyppa_Philippa Fyllypa_Philippa 
+			Rakyl_Rachel Rybyka_Rebecca
+			Samantha_Samantha Sara_Sarah Sarah_Sarah Syryna Shannon Swffrwnya_Sophronia Swffy_Sophia Styffany_Stephanie Summyr Sybylla_Sibyl Susanna_Susan Sysylya_Cecilia Sywan_Siwan
+			Tamara_Tamar Tylly_Matilda
+			Wynnyfryd_Winifred Wyyctwrya_Victoria 
+			Yasmyn_Jasmine Ysbayl_Elizabeth
+		}
+	}
+}
+west_german = {
+	
+	graphical_culture = westerngfx
+
+	belgian = {
+		primary = BRE
+			dynasty_names = {
+			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" "de Friesland"
+			"van Haspinga" "van Limburg" "van Lotharingen"  "von der Mark"
+			"van Leuven" "van Brabant" "van Egmont" "de Reginar" "van Jülich-Hengebach"
+			# CKII
+			"van Loon" "von Geldern" "van Sulzbach" "von Salm"
+			"van Bergh" "van Heinsberg" "van de Veluwe" "De Graeff"
+			"van Brederode" "van Breda" "van Heemskerk" "van Glymes" "van Grimberghe"
+			"van Renesse" "van Wassenaer" "van Bronckhorst"
+			"van Keppel" "Van Voorst tot Voorst" "van Wisch" "van Kamerijk" "Cirksena"
+			"van Diest" "van Montfoort"
+			# Frisian
+			"van Serooskerken"
+			}
+		male_names = {
+			Filips Jan Boudewijn Arnolf Lodewijk Robrecht Willem Diederik Gwijde Karel Antoon Abraham Alexander Alfons 
+			Andries Balthasar Bartholomeus Christoffel Constantijn Cornelis Daniël David Ernst Erwin Ewoud Floris 
+			Gabriel Godfried Hans Jacob Kasper Ludger Luuk Marinus Pieter Renate Rodolf Roeland Valentijn
+		}
+		female_names = {
+			Ada Adela Adelheid Adelaide Aechte Agaete Aleid Alijse Alice Aliken Anna Annelies
+			Badeloge Bava Beatrijs Beatrice Benedicta
+			Blanca Blanche Blanceflore Cecily Cecilia Cille Clara Clementia 
+			Ellijnore Eleanor Emma Ermingarde Ermengarde Fenne
+			Filippa Philippa Frida Gheertrude Gertrude Gerda Godila Haduwijn Helena Helen Herlinda 
+			Hilligonda Ide Ida Imagina Irene Isabelle Iudith
+			Jacoba Jaccobijn Jasminne Johanna Joan Jolanda Juliana Jutte Kathrijne 
+			Katrien Catherine Liedwin Lisebet Elisabeth Machtelt Margareta Margaret
+			Maria Mathilde Matilda Oda Odelt Olinde Onna Pieternelle Petronilla Reynilde Sanne 
+			Sigerda Sophie Sophia Swanhildis Thetburga Tiburge Waltrud
+			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete Margaretha Rosanne Tamara
+		}
+	}
+	
+	luxembourgish = {
+		primary = ESG
+			dynasty_names = {
+			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" "de Friesland"
+			"van Haspinga" "van Limburg" "van Lotharingen"  "von der Mark"
+			"van Leuven" "van Brabant" "van Egmont" "de Reginar" "van Jülich-Hengebach"
+			# CKII
+			"van Loon" "von Geldern" "van Sulzbach" "von Salm"
+			"van Bergh" "van Heinsberg" "van de Veluwe" "De Graeff"
+			"van Brederode" "van Breda" "van Heemskerk" "van Glymes" "van Grimberghe"
+			"van Renesse" "van Wassenaer" "van Bronckhorst"
+			"van Keppel" "Van Voorst tot Voorst" "van Wisch" "van Kamerijk" "Cirksena"
+			"van Diest" "van Montfoort"
+			# Frisian
+			"van Serooskerken"
+		}
+		male_names = {
+			Filips Jan Boudewijn Arnolf Lodewijk Robrecht Willem Diederik Gwijde Karel Antoon Abraham Alexander Alfons 
+			Andries Balthasar Bartholomeus Christoffel Constantijn Cornelis Daniël David Ernst Erwin Ewoud Floris 
+			Gabriel Godfried Hans Jacob Kasper Ludger Luuk Marinus Pieter Renate Rodolf Roeland Valentijn
+		}
+		female_names = {
+			Ada Adela Adelheid Adelaide Aechte Agaete Aleid Alijse Alice Aliken Anna Annelies
+			Badeloge Bava Beatrijs Beatrice Benedicta
+			Blanca Blanche Blanceflore Cecily Cecilia Cille Clara Clementia 
+			Ellijnore Eleanor Emma Ermingarde Ermengarde Fenne
+			Filippa Philippa Frida Gheertrude Gertrude Gerda Godila Haduwijn Helena Helen Herlinda 
+			Hilligonda Ide Ida Imagina Irene Isabelle Iudith
+			Jacoba Jaccobijn Jasminne Johanna Joan Jolanda Juliana Jutte Kathrijne 
+			Katrien Catherine Liedwin Lisebet Elisabeth Machtelt Margareta Margaret
+			Maria Mathilde Matilda Oda Odelt Olinde Onna Pieternelle Petronilla Reynilde Sanne 
+			Sigerda Sophie Sophia Swanhildis Thetburga Tiburge Waltrud
+			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete Margaretha Rosanne Tamara
+		}
+	}
+}
+german = {
+	
+	graphical_culture = westerngfx
+
+	rhenish = {
+		primary = RHI
+		dynasty_names = {
+			#Rheinlaender
+			"von Keller" "von der Mark" "von Wittelsbach" "von Baden" "Rotberg"
+			#Hessian
+			"von Frankenstein" "von Taube" "von Uffeln" "von Hessen" "von Boyneburg"
+		}
+		male_names = {
+			Wilhelm Ludwig Friedrich Hermann Karl Moritz Philipp Heinrich Otto Adolf Christian Georg Leopold 
+			Philipp Adelmar Albrecht Barnabas Denis Egon Erich Gerhard Gottlieb Gregor Hagan Helmut Isaak Isidor 
+			Joachim Joseph Kreszens Lothar Oskar Siegfried Stefan Thomas Wenzel Werner Wolfram Maximilian Ivo
+		}
+		female_names = {
+			Corinna Else Hedwig Helene Helen Hildegard Hildegard Hrothwina Ida Ida Imma Emma Irmgard Charlotte Chiara 
+			Christa Christel Christiane Christina Christine Clara Claudia Constanze
 		}
 	}
 }

@@ -1,0 +1,20 @@
+#38 - Vendée
+
+add_core = GON
+owner = GON
+controller = GON
+
+culture = poitevin
+religion = novelist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "La Roche-sur-Yon"
+
+is_city = yes

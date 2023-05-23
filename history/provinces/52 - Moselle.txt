@@ -1,0 +1,20 @@
+#52 - Moselle
+
+add_core = ESG
+owner = ESG
+controller = ESG
+
+culture = lorraine
+religion = novelist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Metz"
+
+is_city = yes

@@ -15,6 +15,6 @@ base_manpower = 4
 
 trade_goods = wine
 
-capital = "Agen"
+capital = "Agena"
 
 is_city = yes
