@@ -1434,4 +1434,26 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas_EU4/autonomy_increased.dds"
 	}
 
+	spriteType = {
+		name = "GFX_resource_icon"
+		texturefile = "gfx/interface/resources.tga"
+		noOfFrames = 92 #Amount of 64x64 images in "resources"
+		loadType = "INGAME"
+	}
+		
+	spriteType = {
+		name = "GFX_resource_icon_small"
+		texturefile = "gfx/interface/resources_small.dds"
+		noOfFrames = 92 #Amount of 28x28 images in "resources_small"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_resource_icon_transparent"
+		texturefile = "gfx/interface/resources.tga"
+		noOfFrames = 92 #Amount of 64x64 images in "resources"
+		loadType = "INGAME"
+			
+		allwaystransparent = yes
+	}
 }

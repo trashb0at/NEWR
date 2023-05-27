@@ -306,6 +306,7 @@ cloth = {
 	}
 }
 
+#Not used
 fish = {
 	color = { 0.55 0.82 0.97 }
 	modifier = {
@@ -315,45 +316,7 @@ fish = {
 		local_sailors_modifier = 0.25
 	}
 	chance = {
-		factor = 20
-		modifier = {
-			factor = 0
-			NOT = { has_port = yes }
-		}
-		modifier = {
-			factor = 0.65
-			OR = {
-				region = carribeans_region
-				region = malaya_region
-				region = moluccas_region
-				region = indonesia_region
-			}
-		}
-		modifier = {
-			factor = 15
-			area = newfoundland_area
-		}
-		modifier = {
-			factor = 1.1
-			OR = {
-				has_terrain = coastline
-				has_terrain = coastal_desert
-			}
-		}
-		modifier = {
-			factor = 1.2
-			has_terrain = glacier
-		}
-		modifier = {
-			factor = 2
-			FROM = {
-				OR = {
-					has_increased_trade_goods_discovery = { trade_goods = fish }
-					colonial_parent = { has_increased_trade_goods_discovery = { trade_goods = fish } }
-				}
-			}
-		}
-	}
+		factor = 0
 }
 
 fur = {
@@ -2667,6 +2630,7 @@ opium = {
 	}
 }
 
+#Not used
 rum = { 
 	color = { 0.40 0.20 0.20 }
 	modifier = { 
@@ -2676,60 +2640,7 @@ rum = {
 		ship_recruit_speed = -0.25
 	}
 	chance = {
-		factor = 15 
-		modifier = {
-			factor = 0
-				NOT = { 
-					has_global_flag = tradegood_marcin 
-				}
-		}
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					region = carribeans_region
-					region = northeast_america_region
-					region = brazil_region
-				}
-			}
-		}
-		modifier = {
-			factor = 0 
-			OR = {
-				AND = {
-					is_random_new_world = no
-					OR = {
-						continent = north_america
-						continent = south_america
-					}
-				}
-				continent = oceania
-			}
-			FROM = { 
-				OR = {
-					capital_scope = { continent = north_america }
-					capital_scope = { continent = south_america }
-					capital_scope = { continent = oceania }
-					capital_scope = { continent = new_world }
-				}
-				NOT = {
-					OR = {
-						is_colonial_nation = yes
-						technology_group = western
-					}
-				}
-			}
-		}
-		
-		modifier = {
-			factor = 3
-			region = carribeans_region
-		}
-		
-		modifier = {
-			factor = 0
-			has_global_flag = No_Rum 
-		}
+		factor = 0
 	}
 }
 
@@ -3142,6 +3053,7 @@ camel = {
 	} 
 }
 
+#Not used
 gunpowder = {
 	color = { 0.48 0.48 0.32 }
 	modifier = { 
@@ -3844,7 +3756,7 @@ woodworking = {
 	}
 }
 
-
+#Not used
 ebony = {
 	color = {  0.23 0.18 0.18 }
 	modifier = {
@@ -3854,43 +3766,7 @@ ebony = {
 		local_development_cost = -0.05
 	}
 	chance = {
-		factor = 15
-		
-		modifier = {
-			factor = 0
-				OR = {
-					NOT = { has_global_flag = tradegood_marcin }
-					has_global_flag = No_Ebony 
-				}
-		}
-		
-		modifier = {
-			factor = 2.5
-			OR = {
-				region = malaya_region
-				region = moluccas_region
-				region = indonesia_region
-				
-				AND = {
-					continent = africa
-					has_terrain = jungle 
-				}
-			} 
-		}
-		
-		modifier = {
-			factor = 0
-			NOT = {
-				region = malaya_region
-				region = moluccas_region
-				region = indonesia_region
-				
-				AND = {
-					continent = africa
-					has_terrain = jungle 
-				}
-			}
-		}
+		factor = 0
 	}
 }
 
@@ -4308,7 +4184,7 @@ optics = {
 	}
 }
 
-
+#Not used
 fur_clothing = {
 	color = { 0.33 0.68 0.44 }
 	modifier = {
@@ -4322,6 +4198,7 @@ fur_clothing = {
 	}
 }
 
+#Not Used
 cannon = {
 	color = { 25 25 71 }
 	modifier = {
@@ -4379,6 +4256,7 @@ tomato = {
 	} 
 }
 
+#Not used
 champagne = {
 	color = { 120 150 141 }
 	modifier = {
@@ -4392,6 +4270,7 @@ champagne = {
 	}
 }
 
+#Not used
 llama = {
 	color = { 218 201 254 }
 	modifier = {
@@ -4418,6 +4297,7 @@ indigo = {
 	}
 }
 
+#Not used
 sea_turtle = {
 	color = { 209 43 138 }
 	modifier = {
@@ -4427,40 +4307,11 @@ sea_turtle = {
 		province_trade_power_modifier = 0.10
 	}
 	chance = { 
-		factor = 15 
-		
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					region = moluccas_region 
-					region = indonesia_region 
-					continent = oceania 
-				}		
-			}
-
-		}
-		
-		modifier = {
-			factor = 1.2
-			region = moluccas_region
-		}
-		modifier = {
-			factor = 0.75
-			region = indonesia_region
-		}
-		modifier = {
-			factor = 0.5
-			continent = oceania
-		}
-		
-		modifier = {
-			factor = 1.5
-			island = yes
-		}
+		factor = 0
 	}
 }
 
+#Not used
 uniforms = {
 	color = { 153 0 51 }
 	modifier = {
@@ -4474,6 +4325,7 @@ uniforms = {
 	}
 }
 
+#Not used
 marble_sculpture = {
 	color = { 100 149 237 }
 	modifier = {
@@ -4515,6 +4367,7 @@ chocolate = {
 	}
 }
 
+#Not used
 jade_sculptures = {
 	color = { 138 224 198 }
 	modifier = {
@@ -4554,47 +4407,31 @@ exotic_fur = {
 	}
 	chance = {
 		factor = 0
-		
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = { 
-					region = guinea_region
-					region = central_america_region
-					region = colombia_region
-					region = brazil_region
-					superregion = southern_africa_superregion
-				}
-			}
-		}
 	}
 }
 
+test = {
+	color = { 53 90 32 }
+	modifier = {
+		global_institution_spread = 0.1
+	}
+	province = {
+		local_unrest = -2
+	}
+	chance = {
+		factor = 0
+	}
+}
 
-
-
-# Doge
-#milkies = {
-#	color = { 250 250 250 }
-#	modifier = {
-#		global_garrison_growth = 0.2
-#	}
-#	province = {
-#		garrison_size = 0.1 
-#	}
-#	chance = {
-#		factor = 0
-#
-#	}
-#}
-
-
-
-
-
-
-
-
-
-
-
+hashish = {
+	color = { 53 90 32 }
+	modifier = {
+		global_institution_spread = 0.1
+	}
+	province = {
+		local_unrest = -2
+	}
+	chance = {
+		factor = 0
+	}
+}

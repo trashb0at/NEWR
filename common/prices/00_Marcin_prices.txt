@@ -74,6 +74,7 @@ metalworking = { base_price = 3.5 }
 munitions = { base_price = 4 }
 woodworking = { base_price = 3.5 }
 jewellery = { base_price = 5 }
+hashish = { base_price = 3.5 }
 	
 # Eastern Resources
 tea = { base_price = 2 }
