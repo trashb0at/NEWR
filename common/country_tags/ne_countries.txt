@@ -29,3 +29,6 @@ GBR = "countries/Brhyttannya.txt"
 
 BRE = "countries/Breeland.txt"
 ESG = "countries/Esgaroth.txt"
+
+#Germany
+ARC = "countries/Archetland.txt"

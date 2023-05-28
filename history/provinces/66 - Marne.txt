@@ -1,0 +1,20 @@
+#66 - Marne
+
+add_core = GON
+owner = GON
+controller = GON
+
+culture = metropolitan
+religion = novelist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Chalons-en-Champagne"
+
+is_city = yes

@@ -1,0 +1,20 @@
+#71 - Bourges
+
+add_core = AUV
+owner = AUV
+controller = AUV
+
+culture = metropolitan
+religion = sevillian
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Bourges"
+
+is_city = yes

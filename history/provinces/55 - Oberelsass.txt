@@ -1,11 +1,11 @@
 #55 - Oberelsass
 
-add_core = SWI
-owner = SWI
-controller = SWI
+add_core = ARC
+owner = ARC
+controller = ARC
 
 culture = rhenish
-religion = calvinist
+religion = novelist
 
 hre = no
 

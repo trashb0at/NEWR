@@ -1,8 +1,8 @@
 #49 - Hainut
 
-add_core = BRE
-owner = BRE
-controller = BRE
+add_core = GON
+owner = GON
+controller = GON
 
 culture = picard
 religion = novelist

@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = portuguese_monarchy_reform
+primary_culture = rhenish
+religion = novelist
+technology_group = western
+capital = 55 # temp

@@ -1,0 +1,20 @@
+#65 - Chaumont
+
+add_core = ARC
+owner = ARC
+controller = ARC
+
+culture = lorraine
+religion = novelist
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Chaumont"
+
+is_city = yes

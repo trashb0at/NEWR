@@ -1,0 +1,20 @@
+#26 - Torino
+
+add_core = PIE
+owner = PIE
+controller = PIE
+
+culture = piedmontese
+religion = catholic
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Pinerolo"
+
+is_city = yes

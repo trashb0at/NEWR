@@ -1,11 +1,11 @@
 #54 - Straﬂburg
 
-add_core = ESG
-owner = ESG
-controller = ESG
+add_core = ARC
+owner = ARC
+controller = ARC
 
 culture = rhenish
-religion = catholic
+religion = novelist
 
 hre = no
 

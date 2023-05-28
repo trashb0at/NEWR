@@ -1,0 +1,20 @@
+#73 - Allier
+
+add_core = AUV
+owner = AUV
+controller = AUV
+
+culture = burgundian
+religion = sevillian
+
+hre = no
+
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+trade_goods = wine
+
+capital = "Moulins"
+
+is_city = yes
