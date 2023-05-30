@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = calvinist_theomonarchy_reform
 religion = calvinist
 primary_culture = swiss
 technology_group = western

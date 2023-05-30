@@ -1,20 +1,12 @@
 #22 - Avairon
-
-add_core = LEN
 owner = LEN
 controller = LEN
-
 culture = occitan
 religion = sevillian
-
-hre = no
-
-base_tax = 3 
+base_tax = 3
 base_production = 3
 base_manpower = 4
-
-trade_goods = wine
-
-capital = "Rodés"
-
+trade_goods = gold
+capital = "Rodï¿½s"
 is_city = yes
+add_core = LEN

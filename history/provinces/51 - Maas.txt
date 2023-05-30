@@ -1,20 +1,12 @@
 #51 - Maas
-
-add_core = ESG
 owner = ESG
 controller = ESG
-
 culture = luxembourgish
 religion = novelist
-
-hre = no
-
-base_tax = 3 
+base_tax = 3
 base_production = 3
 base_manpower = 4
-
-trade_goods = wine
-
+trade_goods = iron
 capital = "Verden"
-
 is_city = yes
+add_core = ESG

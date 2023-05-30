@@ -317,6 +317,7 @@ fish = {
 	}
 	chance = {
 		factor = 0
+	}
 }
 
 fur = {
@@ -4404,19 +4405,6 @@ exotic_fur = {
 	}
 	province = {	
 		local_prosperity_growth = 0.1
-	}
-	chance = {
-		factor = 0
-	}
-}
-
-test = {
-	color = { 53 90 32 }
-	modifier = {
-		global_institution_spread = 0.1
-	}
-	province = {
-		local_unrest = -2
 	}
 	chance = {
 		factor = 0

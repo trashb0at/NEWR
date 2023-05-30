@@ -1,20 +1,12 @@
 #62 - Anjou
-
-add_core = GON
 owner = GON
 controller = GON
-
 culture = poitevin
 religion = novelist
-
-hre = no
-
-base_tax = 3 
+base_tax = 3
 base_production = 3
 base_manpower = 4
-
-trade_goods = wine
-
+trade_goods = iron
 capital = "Angers"
-
 is_city = yes
+add_core = GON

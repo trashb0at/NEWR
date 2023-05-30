@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = portuguese_monarchy_reform
+add_government_reform = brhyttannyan_parliment_reform
 primary_culture = swuthyryg
 religion = thelema
 technology_group = western

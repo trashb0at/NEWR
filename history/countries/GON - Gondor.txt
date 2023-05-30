@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudal_france_reform
+add_government_reform = numenorian_throne_reform
 primary_culture = temp
 religion = novelist
 technology_group = western
