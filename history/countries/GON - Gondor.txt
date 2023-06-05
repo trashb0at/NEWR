@@ -3,4 +3,4 @@ add_government_reform = numenorian_throne_reform
 primary_culture = temp
 religion = novelist
 technology_group = western
-capital = 27 # temp
+capital = 68 # Paris

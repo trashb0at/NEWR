@@ -15,6 +15,6 @@ base_manpower = 4
 
 trade_goods = wine
 
-capital = "Dacs"
+capital = "Daques"
 
 is_city = yes

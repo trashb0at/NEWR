@@ -4,7 +4,7 @@ add_core = GON
 owner = GON
 controller = GON
 
-culture = metropolitan
+culture = picard
 religion = novelist
 
 hre = no
